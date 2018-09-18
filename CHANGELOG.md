@@ -1,5 +1,11 @@
 # Changelog for Palaver ZNC Module
 
+## 1.1.2
+
+### Bug Fixes
+
+- Fix issue where local notifications may appear twice.
+
 ## 1.1.1
 
 ### Bug Fixes
